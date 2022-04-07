@@ -1,2 +1,2 @@
 GO IMAGE LINK:
-docker push vgoes001/nginx-fullcycle
+docker pull vgoes001/codeeducation
